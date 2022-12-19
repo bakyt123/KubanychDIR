@@ -1,0 +1,56 @@
+﻿/* 40px ot container */
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1020px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-sm {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.shapka {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 37px;
+}
+
+.palka {
+    height: 2px;
+    background-color: #6e6e6e;
+    margin-top: 20px;
+}
+
+.palka1 {
+    height: 2px;
+    background-color: #6e6e6e;
+    margin-top: 78px;
+}
+
+.palka2 {
+    height: 2px;
+    background-color: #6e6e6e;
+    margin-top: 20px;
+}
+
+.h2-1 {
+    margin-top: 40px;
+}

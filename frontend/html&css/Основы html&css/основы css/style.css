@@ -1,0 +1,47 @@
+#h1 {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+
+h2 {
+    text-transform: uppercase;
+}
+
+
+* {
+    text-align: center;
+}
+
+
+
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: black;
+    
+  
+}
+
+
+
+.body {
+    letter-spacing: 1px;
+    font-family: Luminari, fantasy;
+}
+
+.img {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+pre {
+    font-family: impact;
+    letter-spacing: 2px;
+    border-top: 1px solid black;
+    
+}
