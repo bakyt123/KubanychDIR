@@ -1,4 +1,4 @@
-govno kod
+﻿govno kod
 
 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 
 
@@ -7,3 +7,5 @@ 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
 точно ура
 
 idoljskod
+
+ultraidolpython
