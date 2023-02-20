@@ -1,0 +1,7 @@
+.add adding__input::-webkit-input-placeholder {
+  color: red;
+}
+
+.adding__input:-moz-placeholder {
+  color: red;
+}
